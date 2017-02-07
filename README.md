@@ -1,7 +1,8 @@
 JIC - Just In Case
 ------------------
-Datei  : 06-Feb-2017
-Author : Darrell Konschuh (BDP - Big D Productions)
+Date   : 06-Feb-2017
+Org    : BigDProductions
+Author : Darrell Konschuh 
 
 This app allows the user to create a record of their
  home / car / storeage unit / RV / boat...
